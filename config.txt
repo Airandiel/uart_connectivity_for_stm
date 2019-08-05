@@ -1,0 +1,5 @@
+port COM14
+baudrate 115200
+bytesize 8
+parity N
+timeout 200

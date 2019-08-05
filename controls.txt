@@ -1,0 +1,4 @@
+Connection_mode 1
+Access_mode 1
+LED_mode 2
+Speed 254
